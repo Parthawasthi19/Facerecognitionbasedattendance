@@ -126,6 +126,5 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ## 🧑‍💻 Author
 
 **Parth Prasad Awasthi**  
-_Artificial Intelligence and Machine Learning student at USAR, GGSIPU_  
-President, **Intel oneAPI Students Club, EDC GGSIPU**  
+_Artificial Intelligence and Machine Learning student at USAR, GGSIPU_    
 [LinkedIn](https://www.linkedin.com/in/parthawasthi19/) • [GitHub](https://github.com/parthawasthi19)
